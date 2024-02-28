@@ -17,12 +17,12 @@
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "bdd08282-8ab7-45cf-a1e9-298acf7d2f71",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "amma-bot",
             "required": true,
             "value": ""
         },
