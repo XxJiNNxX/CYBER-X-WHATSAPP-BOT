@@ -27,7 +27,7 @@
             "value": ""
         },
         "WORK_TYPE": {
-            "description": "Add the worktype of the Bot ( private , public ,  )",
+            "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
             "value": "only_group"
         }
